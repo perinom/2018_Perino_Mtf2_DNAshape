@@ -1,6 +1,6 @@
 ### General info
 
-This repository contains code, conda environments, and step-by-instructions to reproduce the analysis published in [Perino et al, 2018] (https://europepmc.org/article/MED/29808031)
+This repository contains code, conda environments, and step-by-instructions to reproduce the analysis published in [Perino et al, 2018](https://europepmc.org/article/MED/29808031)
 
 Minor differences in the results and from the original 2018 code might be present as this repository has been created post-publication in 2022.
 
